@@ -1,0 +1,1 @@
+./ShopPlatform/gradlew bootRun -p ./ShopPlatform/

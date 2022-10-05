@@ -1,0 +1,1 @@
+dotnet run --project ./ShopPlatform/Orders/Orders.Api/
